@@ -5,7 +5,7 @@ sieci_project_env/
 __pycache__/
 *.py[cod]
 *.ipynb_checkpoints
-.cache/
+cache/
 
 # Output files
 # *.html
