@@ -1,0 +1,9 @@
+Mamy kod do otrzymania grafu + rzutowania grafu na mape ze Street Map przy użyciu folium.
+
+Do zrobienia:
+- zapisać graf do pliku jakimś pickle'm, żeby każdy pracował na tym samym.
+- zapisywanie wszystkic wizualizacji do plików
+- przeprowadzenie obliczeń (każdy może wziąć inny podpunkt)
+
+- zapisanie operacji ze Street Maps do pliku żeby dąło się używać tej funkcji lokalnie i nie wywoaływać API za każdym razem
+- lepsza struktura projektu 

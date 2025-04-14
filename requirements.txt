@@ -1,0 +1,6 @@
+geopandas
+tqdm
+osmnx==1.3.0
+matplotlib
+folium
+contextily
