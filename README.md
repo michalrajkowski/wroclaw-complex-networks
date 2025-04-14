@@ -44,3 +44,9 @@ Visualisation of different sized circles centered at the Wroclaw Town Square
 ![Graph Size Reduction 2](./screens/07_graph_size_reduction_2.png)
 
 Pedestrain streets graph cropped to the 3 000m radius circle from the Town Square
+
+### 8. Map with buildings added
+![Graph with buildings](./screens/08_with_buildings_added.png)
+
+### 9. Familiar PWr region with buildings
+
